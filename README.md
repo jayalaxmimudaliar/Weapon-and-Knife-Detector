@@ -23,7 +23,7 @@ https://universe.roboflow.com/joao-assalim-xmovq/weapon-2/dataset/2
 1. **Repository Cloning:**
 
 ```
-git clone 
+git clone https://github.com/jayalaxmimudaliar/Weapon-and-Knife-Detector.git
 ```
 
 2. **Installation of dependencies:**
