@@ -13,7 +13,7 @@ cache: false
 device: null
 workers: 8
 project: null
-name: Normal2
+name: Normal_Compressed
 exist_ok: false
 pretrained: true
 optimizer: Adam
@@ -98,4 +98,4 @@ mixup: 0.0
 copy_paste: 0.0
 cfg: null
 tracker: botsort.yaml
-save_dir: runs\detect\Normal2
+save_dir: runs\detect\Normal_Compressed

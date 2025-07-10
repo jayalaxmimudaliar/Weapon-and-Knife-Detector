@@ -19,7 +19,7 @@ def patched_torch_safe_load(file):
 tasks.torch_safe_load = patched_torch_safe_load
 
 from ultralytics import YOLO
-yolo_model = YOLO('./runs/detect/Normal_Compressed/weights/best.pt')
+yolo_model = YOLO('./runs/detect/Normal/weights/best.pt')
 
 
 # Initialize pygame mixer once
