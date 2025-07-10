@@ -13,6 +13,7 @@ The main objective of this project is to design and implement an advanced system
 
 - **Integration with IP Cameras:** The system is designed for easy integration with IP cameras, allowing for real-time surveillance and immediate notifications.
 
+![DemoVideo](https://github.com/jayalaxmimudaliar/Weapon-and-Knife-Detector/blob/main/my_weapon/demoVideos/weapon.gif)
 
 ## Dataset
 
